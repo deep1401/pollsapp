@@ -1,0 +1,2 @@
+# pollsapp
+First Django app 
